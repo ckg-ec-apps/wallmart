@@ -1,1 +1,1 @@
-This file contains the details of strings
+This file contains the details of strings.

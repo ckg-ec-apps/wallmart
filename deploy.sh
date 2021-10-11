@@ -1,2 +1,2 @@
-This is a shell script for deploying the project.
+This is a shell script for deploying the project
 
